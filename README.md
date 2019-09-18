@@ -1,4 +1,4 @@
-# Picture-Compressor
+# Picture-Compressor With K-Means Clustering!
 MATLAB project which takes in as input a picture and outputs that same photo using only the desired number of colours  
 
 Simply put an image in the same folder as the rest of the files, run script file named ConvertImage.m.  

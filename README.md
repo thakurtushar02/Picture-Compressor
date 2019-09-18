@@ -10,4 +10,5 @@ Next type the number of colours you would like in the final creation.
 Add a maximum number of iterations before it forcefully stops (put number > 500 if you don't care about how long it takes)  
 
 Wait 10-15 seconds if it's a large photo.  
+
 Voila!  

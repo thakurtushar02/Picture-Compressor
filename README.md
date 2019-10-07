@@ -17,7 +17,7 @@ Example Image:
 
 ![Tree](https://user-images.githubusercontent.com/48281867/66281602-8d435d80-e918-11e9-9a07-afe7221e9d32.jpg)
 
-Using my program, I can convert the above into an image with (for example) 3 images!
+Using my program, I can convert the above into an image with (for example) 3 colours!
 
 ![3colourTree](https://user-images.githubusercontent.com/48281867/66281605-946a6b80-e918-11e9-9f0c-33254526e8b4.jpg)
 

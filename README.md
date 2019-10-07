@@ -1,4 +1,4 @@
-# Picture-Compressor With K-Means Clustering!
+# Picture-Compressor With K-Means Clustering
 MATLAB project which takes in as input a picture and outputs that same photo using only the desired number of colours  
 
 Simply put an image in the same folder as the rest of the files, run script file named ConvertImage.m.  
@@ -21,4 +21,6 @@ Using my program, I can convert the above into an image with (for example) 3 col
 
 ![3colourTree](https://user-images.githubusercontent.com/48281867/66281605-946a6b80-e918-11e9-9f0c-33254526e8b4.jpg)
 
-Notice how there are only three colours in the second image. The second image is also smaller than the first one.
+Notice how there are only three colours in the second image. The second image is also smaller (in kB) than the first one.
+
+Have fun!

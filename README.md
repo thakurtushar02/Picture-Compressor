@@ -15,8 +15,10 @@ Voila!
 
 Example Image:  
 
-![Original Image](https://imgur.com/a/hkZ039c)
+![Tree](https://user-images.githubusercontent.com/48281867/66281602-8d435d80-e918-11e9-9a07-afe7221e9d32.jpg)
 
-Using my tool, I can recreate the image using (for example) 3 colours!
+Using my program, I can convert the above into an image with (for example) 3 images!
 
-![Compressed Image](https://imgur.com/a/88lpUF0)
+![3colourTree](https://user-images.githubusercontent.com/48281867/66281605-946a6b80-e918-11e9-9f0c-33254526e8b4.jpg)
+
+Notice how there are only three colours in the second image. The second image is also smaller than the first one.

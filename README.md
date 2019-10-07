@@ -12,3 +12,11 @@ Add a maximum number of iterations before it forcefully stops (put number > 500 
 Wait 10-15 seconds if it's a large photo.  
 
 Voila!  
+
+Example Image:  
+
+![Original Image](https://imgur.com/a/hkZ039c)
+
+Using my tool, I can recreate the image using (for example) 3 colours!
+
+![Compressed Image](https://imgur.com/a/88lpUF0)
